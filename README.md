@@ -1,3 +1,3 @@
 # spring-resttemplate
 
-## 패스트 캠퍼스 : Java/Spring 웹 개발 마스터 Part 3 - Ch 07
+## 처음 배우는 스프링 부트2 : 3장 스프링 부트 테스트
